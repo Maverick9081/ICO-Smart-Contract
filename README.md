@@ -2,7 +2,7 @@
 
 An ICO Smart Contract, with custom ERC20 Token with 3 sale Phases.In the pre-sale phase there are 30 million, in the seed sale there are 50 Million additional tokens to be sold and in the final phase there are 20 Million tokens to be sold.
 
-The timings of the Phases and the token price  are dicated by the contract admin using  contract_handler function.
+The timings of the Phases and the token price  are dictated by the contract admin using  contract_handler function.
 
 The tokens are minted directly to the buyers account.
 
